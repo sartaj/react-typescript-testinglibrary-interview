@@ -2,12 +2,6 @@
 
 ## Installation
 
-Install Yarn:
-
-```bash
-https://yarnpkg.com/lang/en/docs/install/
-```
-
 Clone and install Yarn dependencies:
 
 ```bash
