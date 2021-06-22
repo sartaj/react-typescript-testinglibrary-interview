@@ -26,11 +26,7 @@ See `package.json`
 
 Complete the tests with `testing-library` inside `Home.test.tsx`, `About.test.tsx`, and `LayoutContainer.test.tsx`.
 
-For `Home`, you should be able to show that you can verify Home rendered correctly
-
-For `LayoutContainer`, you should be able to render the layout container, followed by navigating to the About page.
-
-For `About`, you should be able to click the increment button and verify the count.
+Each file has tests that are empty. Fill each test out to match what is expected.
 
 Run `yarn test` to test.
 
